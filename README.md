@@ -1,4 +1,4 @@
-##### 👋 Hi, I am Omkar Katkar
+<h1 align="center"> 👋 Hi, I am Omkar Katkar </h1>
 
 ##### 🔭 I’m currently mastering Python, Power BI , MySQL, Machine Learning, Artificial intelligence and Deep learning
 ##### 👀 I am interested in Data Science, Machine Learning and Artificial Intelligence
