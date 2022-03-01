@@ -1,12 +1,12 @@
 <h1 align="center"> 👋 Hi, I am Omkar Katkar </h1>
 
-##### 🔭 I’m currently mastering Python, Power BI , MySQL, Machine Learning, Artificial intelligence and Deep learning
-##### 👀 I am interested in Data Science, Machine Learning and Artificial Intelligence
-##### ✨ I’m currently Working for Alten India in R&D department as Project Engineer
-##### 👯 I’m looking to collaborate on topics related to Data Science, Machine Learning and Artificial Intelligence.
-##### 📫 You can reach me on my email id omkarkatkar525@gmail.com & on Phone Call/sms 8275206299
+#####- 🔭 I’m currently mastering Python, Power BI , MySQL, Machine Learning, Artificial intelligence and Deep learning
+#####- 👀 I am interested in Data Science, Machine Learning and Artificial Intelligence
+#####- ✨ I’m currently Working for Alten India in R&D department as Project Engineer
+#####- 👯 I’m looking to collaborate on topics related to Data Science, Machine Learning and Artificial Intelligence.
+#####- 📫 You can reach me on my email id omkarkatkar525@gmail.com & on Phone Call/sms 8275206299
 
-- 👨‍💻 All of my projects are available at [https://github.com/omkarkatkar525](https://github.com/omkarkatkar525)
+#####- 👨‍💻 All of my projects are available at [https://github.com/omkarkatkar525](https://github.com/omkarkatkar525)
 [![MasterHead](https://visme.co/blog/wp-content/uploads/2020/06/animated-interactive-infographics-header-wide.gif)](https://github.com/imUtkarsh46)
 <h1 align="center">Hi 👋, I'm Utkarsh Chalsey</h1>
 <h3 align="center">An enthusiastic Data Analyst and Data Science with highly inspiring analytical skills. Currently exploring and implementing new technologies like Machine Learning, Python, Rstudio, Mysql, and Tableau. Flourishing my talent and harnessing it in the best possible way has always been a sort of whim for me. Always willing to innovate new things that can improve the existing technology and management. Believe in practicality rather than sheer idealism.</h3>
