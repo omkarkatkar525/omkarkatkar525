@@ -1,5 +1,5 @@
 <h1 align="center"> 👋 Hi, I am Omkar Katkar </h1>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=omkarkatkar525&label=Profile%20views&color=blue&style=plastic" alt="omkarkatkar525" /> </p>
 ##### 🔭 I’m currently mastering Python, Power BI , MySQL, Machine Learning, Artificial intelligence and Deep learning
 ##### 👀 I am interested in Data Science, Machine Learning and Artificial Intelligence
 ##### ✨ I’m currently Working for Alten India in R&D department as Project Engineer
@@ -14,7 +14,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://fairchanceforcrm.com/wp-content/uploads/2021/01/sales-manager-openings.gif">
 
-# <p align="left"> <img src="https://komarev.com/ghpvc/?username=omkarkatkar525&label=Profile%20views&color=blue&style=plastic" alt="omkarkatkar525" /> </p>
+
 
 
 <h3 align="left">Connect with me:</h3>
