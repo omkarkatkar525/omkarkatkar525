@@ -1,8 +1,8 @@
-<h1 align="center"> 👋 Hi, I am Omkar Katkar </h1>
+<h1 align="center"> 👋 Hi, I’m Omkar Katkar </h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omkarkatkar525&label=Profile%20views&color=blue&style=plastic" alt="omkarkatkar525" /> </p>
 
-##### 🔭 I’m currently mastering Python, Power BI , MySQL, Machine Learning, Artificial intelligence and Deep learning
-##### 👀 I am interested in Data Science, Machine Learning and Artificial Intelligence
+##### 🔭 I’m currently mastering Python, Power BI, MySQL, Machine Learning, Artificial intelligence and Deep learning
+##### 👀 I’m interested in Data Science, Machine Learning and Artificial Intelligence
 ##### ✨ I’m currently Working for Alten India in R&D department as Project Engineer
 ##### 👯 I’m looking to collaborate on topics related to Data Science, Machine Learning and Artificial Intelligence.
 ##### 📫 You can reach me on my email id omkarkatkar525@gmail.com & on Phone Call/sms 8275206299
