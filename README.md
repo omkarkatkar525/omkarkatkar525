@@ -10,21 +10,12 @@
 
 [![MasterHead]()]()
 
-<h3 align="center">An enthusiastic Data Analyst and Data Science with highly inspiring analytical skills. Currently exploring and implementing new technologies like Machine Learning, Python, Rstudio, Mysql, and Tableau. Flourishing my talent and harnessing it in the best possible way has always been a sort of whim for me. Always willing to innovate new things that can improve the existing technology and management. Believe in practicality rather than sheer idealism.</h3>
+
 
 <img align="right" alt="Coding" width="400" src="https://fairchanceforcrm.com/wp-content/uploads/2021/01/sales-manager-openings.gif">
 
 # <p align="left"> <img src="https://komarev.com/ghpvc/?username=omkarkatkar525&label=Profile%20views&color=blue&style=plastic" alt="omkarkatkar525" /> </p>
 
-- 🔭 I’m currently working on **Email Spam Detection**
-
-- 🌱 I’m currently learning **Data Science, Data Analyst, Machine Learning, Deep Learning**
-
-- 👨‍💻 All of my projects are available at [https://github.com/imUtkarsh46](https://github.com/imUtkarsh46)
-
-- 💬 Ask me about **Data Science, Tableau, Python, Machine Learning**
-
-- 📫 How to reach me **chalseyutkarsh@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
