@@ -9,15 +9,6 @@
 
 ##### 👨‍💻 All of my projects is available at [https://github.com/omkarkatkar525](https://github.com/omkarkatkar525)
 
-[![MasterHead]()]()
-
-
-
-<img align="right" alt="Coding" width="400" src="https://fairchanceforcrm.com/wp-content/uploads/2021/01/sales-manager-openings.gif">
-
-
-
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/chalsey_utkarsh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chalsey_utkarsh" height="30" width="40" /></a>
