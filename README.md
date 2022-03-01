@@ -1,5 +1,5 @@
 ### 👋 Hi, I am Omkar Katkar 
-## 🔭 I’m currently mastering Python, Power BI , MySQL, Machine Learning, Artificial intelligence and Deep learning
+#### 🔭 I’m currently mastering Python, Power BI , MySQL, Machine Learning, Artificial intelligence and Deep learning
 <!--
 **omkarkatkar525/omkarkatkar525** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
