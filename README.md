@@ -14,7 +14,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://fairchanceforcrm.com/wp-content/uploads/2021/01/sales-manager-openings.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=imutkarsh46&label=Profile%20views&color=0e75b6&style=flat" alt="imutkarsh46" /> </p>
+# <p align="left"> <img src="https://komarev.com/ghpvc/?username=imutkarsh46&label=Profile%20views&color=0e75b6&style=flat" alt="imutkarsh46" /> </p>
 
 - 🔭 I’m currently working on **Email Spam Detection**
 
