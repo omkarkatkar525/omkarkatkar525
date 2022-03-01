@@ -8,7 +8,7 @@
 
 ##### 👨‍💻 All of my projects is available at [https://github.com/omkarkatkar525](https://github.com/omkarkatkar525)
 
-[![MasterHead](https://visme.co/blog/wp-content/uploads/2020/06/animated-interactive-infographics-header-wide.gif)](https://github.com/imUtkarsh46)
+[![MasterHead]()]()
 
 <h3 align="center">An enthusiastic Data Analyst and Data Science with highly inspiring analytical skills. Currently exploring and implementing new technologies like Machine Learning, Python, Rstudio, Mysql, and Tableau. Flourishing my talent and harnessing it in the best possible way has always been a sort of whim for me. Always willing to innovate new things that can improve the existing technology and management. Believe in practicality rather than sheer idealism.</h3>
 
