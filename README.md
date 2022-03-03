@@ -12,7 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/chalsey_utkarsh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chalsey_utkarsh" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/chalseyutkarsh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chalseyutkarsh" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/omkar-katkar-7a1179118/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chalseyutkarsh" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/utkarsh-chalsey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="utkarsh-chalsey" height="30" width="40" /></a>
 <a href="https://kaggle.com/utkarshchalsey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="utkarshchalsey" height="30" width="40" /></a>
 <a href="https://fb.com/imutkarsh046" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="imutkarsh046" height="30" width="40" /></a>
