@@ -17,8 +17,7 @@
 <a href="https://www.kaggle.com/omkarkatkar525" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="utkarshchalsey" height="30" width="40" /></a>
 <a href="https://fb.com/imutkarsh046" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="imutkarsh046" height="30" width="40" /></a>
 <a href="https://instagram.com/imutkarsh046" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="imutkarsh046" height="30" width="40" /></a>
-<a href="https://medium.com/utkarshchalse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="utkarshchalse" height="30" width="40" /></a>
-<a href="https://discord.gg/#2885" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#2885" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
