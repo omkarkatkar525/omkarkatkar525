@@ -17,7 +17,7 @@
 <a href="https://stackoverflow.com/users/18362858/omkar-katkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="utkarsh-chalsey" height="30" width="40" /></a>
 <a href="https://www.facebook.com/omkar.katkar.33/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="imutkarsh046" height="30" width="40" /></a>
 <a href="https://twitter.com/omkarkatkar0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chalsey_utkarsh" height="30" width="40" /></a>
-<a href="https://instagram.com/imutkarsh046" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="imutkarsh046" height="30" width="40" /></a>
+<a href="https://www.instagram.com/omkar_katkar__/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="imutkarsh046" height="30" width="40" /></a>
 
 </p>
 
