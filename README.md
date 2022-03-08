@@ -7,7 +7,7 @@
 ##### 👯 I’m looking to collaborate on topics related to Data Science, Machine Learning and Artificial Intelligence.
 ##### 📫 You can reach me on my email id omkarkatkar525@gmail.com & on Phone Call/sms 8275206299
 
-##### 👨‍💻 All of my projects is available at [https://github.com/omkarkatkar525](https://github.com/omkarkatkar525)
+##### 👨‍💻 All of my projects is available at [https://github.com/omkarkatkar525](https://github.com/omkarkatkar525?tab=repositories)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
